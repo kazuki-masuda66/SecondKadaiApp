@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D45B3F62258735BD000881A3 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D45B3F61258735BD000881A3 /* ResultViewController.swift */; };
 		D49FD3FC258600DC0084B3FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FD3FB258600DC0084B3FB /* AppDelegate.swift */; };
 		D49FD3FE258600DC0084B3FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FD3FD258600DC0084B3FB /* SceneDelegate.swift */; };
 		D49FD400258600DC0084B3FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49FD3FF258600DC0084B3FB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D45B3F61258735BD000881A3 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		D49FD3F8258600DC0084B3FB /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49FD3FB258600DC0084B3FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D49FD3FD258600DC0084B3FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				D49FD3FB258600DC0084B3FB /* AppDelegate.swift */,
 				D49FD3FD258600DC0084B3FB /* SceneDelegate.swift */,
 				D49FD3FF258600DC0084B3FB /* ViewController.swift */,
+				D45B3F61258735BD000881A3 /* ResultViewController.swift */,
 				D49FD401258600DC0084B3FB /* Main.storyboard */,
 				D49FD404258600E30084B3FB /* Assets.xcassets */,
 				D49FD406258600E30084B3FB /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D49FD400258600DC0084B3FB /* ViewController.swift in Sources */,
 				D49FD3FC258600DC0084B3FB /* AppDelegate.swift in Sources */,
 				D49FD3FE258600DC0084B3FB /* SceneDelegate.swift in Sources */,
+				D45B3F62258735BD000881A3 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
